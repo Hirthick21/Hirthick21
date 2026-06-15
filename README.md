@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hirthick Anandarajan 👋</h1>
+<h1 align="center">Hey, I'm Hirthick Anandarajan 👋</h1>
 <h3 align="center">Cloud &amp; DevOps Engineer (in training) | Full-Stack Developer | AI Agent Builder</h3>
 
 <p align="center">
